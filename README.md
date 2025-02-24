@@ -7,8 +7,7 @@
 ✨ Fullstack developer with experience in:
 - **Frontend:** Vue.js, TypeScript
 - **Backend:** Kotlin, Python, C++
-- **Data Science & AI:** Jupyter Notebook
-- **Desktop Development:** Qt
+- **Data Science & AI:** Python, Jupyter Notebook
 
 🚀 Passionate about building scalable web applications, improving API architectures, and exploring new technologies.
 
