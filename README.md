@@ -2,8 +2,6 @@
 
 ---
 
-💻 **Tech Stack:**
-
 ✨ Fullstack developer with experience in:
 - **Frontend:** Vue.js, TypeScript
 - **Backend:** Kotlin, Python, C++
