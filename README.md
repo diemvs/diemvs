@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Fullstack Developer!
+### Hi there 👋 My name is Dmitriy!
 
 ---
 
